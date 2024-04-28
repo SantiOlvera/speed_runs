@@ -37,3 +37,6 @@ El archivo de all_players.ipynb obtiene la información asociada al id del jugad
 
 Como el archivo de data.ipynb solo obtiene los mejores runs de todos los jugadores quería obtener los runs que se quedaron en el olvido. Entonces el archivo de obsolate_runs_all_players.ipynb obtiene aquellos runs que alguna vez fueron subidos pero quedaron relegados por mejores tiempos del jugador
 
+### joins.ipynb
+
+Se hacen los respectivos joins de los csvs obtenidos para cambiar las id's por nombres reales
