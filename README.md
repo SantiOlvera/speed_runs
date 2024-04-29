@@ -40,3 +40,7 @@ Como el archivo de data.ipynb solo obtiene los mejores runs de todos los jugador
 ### joins.ipynb
 
 Se hacen los respectivos joins de los csvs obtenidos para cambiar las id's por nombres reales
+
+### forums.ipynb
+
+El archivo de forums.ipynb lo que hace es extraer la información de los foros de discución de los juegos, esto con la finalidad de saber que tanto interactuan en un juego
