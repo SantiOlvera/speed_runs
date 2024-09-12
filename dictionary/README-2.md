@@ -1,5 +1,7 @@
 # Video Game Speed Run Dataset
 
+https://www.dropbox.com/scl/fo/6x8plddu5z3wby8k0s5wb/AN-T24grkENMHlZpUHrLQmY?rlkey=8ucajk05stxrzn7ue3dwya9xw&st=r5g5ptlc&dl=0
+
 This dataset contains information related to video games and speed runs, including game categories, player performance, world records, and forum interactions. Below is the detailed data dictionary explaining each column in the dataset.
 
 ## Data Dictionary
